@@ -1,10 +1,11 @@
 '''
 UFS - Univesidade Federal de Sergipe
 PROCC - Pós-Graduação em Ciência da Computação
-Disciplina: VALIAÇÃO DE DESEMPENHO DE SISTEMAS COMPUTACIONAIS
+Disciplina: AVALIAÇÃO DE DESEMPENHO DE SISTEMAS COMPUTACIONAIS
+Algoritmo desenvolvido pelo o Professor Dr. RUBENS DE SOUZA MATOS JUNIOR
 
 Algoritmo de Simulação com configuração de tempo entre chegadas
-Algoritmo desenvolvido pelo o Professor Dr. RUBENS DE SOUZA MATOS JUNIOR
+
 '''
 
 import simpy
