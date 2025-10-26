@@ -176,6 +176,3 @@ docker run -it simpy-env
 ```
 
 ---
-
-Feito por: **Luciano Torres**  
-📘 *Especialista em Simulação e Automação com Python e Linux Debian*
