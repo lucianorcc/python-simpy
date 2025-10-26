@@ -1,5 +1,5 @@
 '''
-UFS - Univesidade Federal de Sergipe
+UFS - UNIVERSIDADE FEDERAL DE SERGIPE
 PROCC - Pós-Graduação em Ciência da Computação
 Disciplina: AVALIAÇÃO DE DESEMPENHO DE SISTEMAS COMPUTACIONAIS
 Algoritmo desenvolvido pelo o Professor Dr. RUBENS DE SOUZA MATOS JUNIOR
